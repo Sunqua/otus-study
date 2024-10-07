@@ -6,4 +6,10 @@ public class Application {
         System.out.println(2);
         System.out.println(3);
     }
+
+    public static void someMethod() {
+        System.out.println("---");
+        System.out.println("- -");
+        System.out.println("---");
+    }
 }
